@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA language and ecosystem (and  practicing some data structures along the way).
 - 📫 How to reach me
   - Email: mehdi.ouledhali@gmail.com
-  - LinkedIn: www.inkedin.com/in/mehdi-ouledhali
+  - LinkedIn: www.linkedin.com/in/mehdi-ouledhali
   - phone: +212 701173315
 
 <!---
