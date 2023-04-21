@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehdi Ouled-Hali
+- 👋 Hi, my name is Mehdi Ouled-Hali
 - 👀 I’m interested in Software engineering.
 - 🌱 I’m currently learning JAVA language and ecosystem (and  practicing some data structures along the way).
 - 📫 How to reach me
