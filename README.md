@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Mehdi Ouled-Hali
 - ❤️ I’m passionate about Software engineering
-- 🌱 Currently, I'm learning AI engineering and applying AI in prodcution as well as personal projects
+- 🌱 Currently, I'm learning AI engineering and applying AI in prodcution as well as in personal projects
 - 📫 How to reach me
   - Email: mehdi.ouledhali@gmail.com
   - LinkedIn: www.linkedin.com/in/mehdi-ouledhali
